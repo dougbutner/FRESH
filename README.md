@@ -6,7 +6,7 @@ These are little things that help me as a programmer.
 
 After growing + nurturing this syntax over the past few years, It's ready for the world the world. Take what you like, experiment, and share your ideas to improve as issues or PRs 🙏
 
-# Section Headers
+# Section Headers 🏛
 
 `// === Main Section Header === \\`
 
@@ -14,7 +14,7 @@ After growing + nurturing this syntax over the past few years, It's ready for th
 `// --- Secondary Section Header or Explainer --- \\`
 
 
-# Long Comment
+# Long Comment ✍️
 
 ```javascript
 /*/
@@ -23,7 +23,7 @@ Having symmetric comments makes things look a little nicer, and are easier to mo
 ```
 
 
-# One Line Comments
+# One Line Comments 🗯
 
 > Adding lines helps eyes flow to important comments
 
@@ -40,7 +40,7 @@ Having symmetric comments makes things look a little nicer, and are easier to mo
 // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! - Brooo
 
 
-# Scope Terminator
+# Scope Terminator 🔭
 
 Use `//END scope()` to keep yourself from getting lost in deep nesting
 
@@ -54,7 +54,7 @@ scoped_function(){
 }//END scoped_function() 
 ```
 
-# Action Tags
+# Action Tags 🏷
 
 It's hip to keep tags in your bag for easy spotting of common things that need addressing. You can use any tags you like, as long as they are known and agreed upon per-team / -project. Ideally, you look back on them and address before production, but, you know. 
 
@@ -73,8 +73,10 @@ NOTE – used to highlight especially notable gotchas.
 UNDONE – a reversal or "roll back" of previous code.
 XXX – warn other programmers of problematic or misguiding code
 
+> Format suggestion: I have found using tags like this "// CHECK : The code is working" is good for readability
 
-# Benefits
+
+# Benefits 🍆🍑
 FRESH syntax improves readability for the programmer by 
 
 - Horizontal lines [improve readability](I have no source apparently.md)
