@@ -1,4 +1,4 @@
-# FRESH Commenting Syntax
+# FRESH Commenting Syntax 👨‍💻
 
 > Designed for the programmer, this informal syntax is designed to help you retain and regain where you are in long files. And remain sane.
 
@@ -37,8 +37,19 @@ Having symmetric comments makes things look a little nicer, and are easier to mo
 
 // !! But really this is needs to be adressed right now
 
-// !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! - Brooo
+// !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! - Brooo  
 
+
+
+Add readability to any comment in a small space.
+
+```javascript
+{// -- Send love to the homies 
+  name: 'daps',
+  interval: '1d',
+  timeout: '300'
+}
+```
 
 # Scope Terminator 🔭
 
@@ -86,4 +97,4 @@ FRESH syntax improves readability for the programmer by
 
 *Welcome for improvements in issues / PRs.*
 
-👨‍💻☕️ Author: [Douglas Butner AKA Sir Douglas Fresh](https://linktr.ee/iammonlove)
+👨‍💻☕️ Author: [Douglas Butner AKA Sir Douglas Fresh](https://douglas.life)
