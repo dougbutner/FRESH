@@ -65,36 +65,36 @@ scoped_function(){
 }//END scoped_function() 
 ```
 
-# Action Tags 🏷
+# Action Tags 🏷  
 
-It's hip to keep tags in your bag for easy spotting of common things that need addressing. You can use any tags you like, as long as they are known and agreed upon per-team / -project. Ideally, you look back on them and address before production, but, you know. 
+It's hip to keep tags in your bag for easy spotting of common things that need addressing. You can use any tags you like, as long as they are known and agreed upon per-team / -project. Ideally, you look back on them and address before production, but, you know.   
 
-TODO - Something you need to circle back and finish coding
-CHECK - Code may not be needed, but functionality hasn't been confirmed
-WARN - Flag that code may have issues or need improvement in the future
-DEPRECIATED - Old code that for some reason is commented out in a section
-REMOVE - Code that shouldn't make it into production
+TODO - Something you need to circle back and finish coding  
+CHECK - Code may not be needed, but functionality hasn't been confirmed  
+WARN - Flag that code may have issues or need improvement in the future  
+DEPRECIATED - Old code that for some reason is commented out in a section  
+REMOVE - Code that shouldn't make it into production  
 
-Here's more tags from [Wikipedia](https://en.wikipedia.org/wiki/Comment_(computer_programming\)) if you'd rather stick to the script
-BUG – a known bug that should be corrected.
-FIXME – should be corrected.
-HACK – a workaround.
-TODO – something to be done.
-NOTE – used to highlight especially notable gotchas.
-UNDONE – a reversal or "roll back" of previous code.
-XXX – warn other programmers of problematic or misguiding code
+Here's more tags from [Wikipedia](https://en.wikipedia.org/wiki/Comment_(computer_programming\)) if you'd rather stick to the script  
+BUG – a known bug that should be corrected.  
+FIXME – should be corrected.  
+HACK – a workaround.  
+TODO – something to be done.  
+NOTE – used to highlight especially notable gotchas.  
+UNDONE – a reversal or "roll back" of previous code.  
+XXX – warn other programmers of problematic or misguiding code  
 
-> Format suggestion: I have found using tags like this "// CHECK : The code is working" is good for readability
+> Format suggestion: I have found using tags like this "// CHECK : The code is working" is good for readability  
 
 
-# Benefits 🍆🍑
-FRESH syntax improves readability for the programmer by 
+# Benefits 🍆🍑  
+FRESH syntax improves readability for the programmer by   
 
-- Horizontal lines [improve readability](I have no source apparently.md)
-- Scope termination so you don't get lost
-- Searchable FLAGS help quality control
-- Symmetric comments are pleasing to the eye
+- Horizontal lines [improve readability](I have no source apparently.md)  
+- Scope termination so you don't get lost  
+- Searchable FLAGS help quality control  
+- Symmetric comments are pleasing to the eye  
 
-*Welcome for improvements in issues / PRs.*
+*Welcome for improvements in issues / PRs.*  
 
 👨‍💻☕️ Author: [Douglas Butner AKA Sir Douglas Fresh](https://douglas.life)
