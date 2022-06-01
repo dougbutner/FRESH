@@ -37,7 +37,7 @@ Having symmetric comments makes things look a little nicer, and are easier to mo
 
 // !! But really this is needs to be adressed right now
 
-// !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! - Brooo  
+// !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! - Brooo forreal 
 
 
 
@@ -73,6 +73,7 @@ TODO - Something you need to circle back and finish coding
 CHECK - Code may not be needed, but functionality hasn't been confirmed  
 WARN - Flag that code may have issues or need improvement in the future  
 DEPRECIATED - Old code that for some reason is commented out in a section  
+CRITICAL / URGENT / VITAL - Needs to be changed for sure before moving onto production or next phase
 REMOVE - Code that shouldn't make it into production  
 
 Here's more tags from [Wikipedia](https://en.wikipedia.org/wiki/Comment_(computer_programming\)) if you'd rather stick to the script  
