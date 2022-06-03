@@ -72,7 +72,7 @@ It's hip to keep tags in your bag for easy spotting of common things that need a
 TODO - Something you need to circle back and finish coding  
 CHECK - Code may not be needed, but functionality hasn't been confirmed  
 WARN - Flag that code may have issues or need improvement in the future  
-DEPRECIATED - Old code that for some reason is commented out in a section  
+DEP / DEPRECIATED - Old code that for some reason is commented out in a section  
 CRITICAL / URGENT / VITAL - Needs to be changed for sure before moving onto production or next phase
 REMOVE - Code that shouldn't make it into production  
 
