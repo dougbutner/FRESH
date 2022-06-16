@@ -1,6 +1,6 @@
-# FRESH Commenting Syntax 👨‍💻
+# FRESH Syntax 👨‍💻
 
-> Designed for the programmer, this informal syntax is designed to help you retain and regain where you are in long files. And remain sane.
+> Designed for the programmer, this commenting syntax is designed to help you retain and regain where you are in long files. And remain sane.
 
 These are little things that help me as a programmer. 
 
