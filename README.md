@@ -22,6 +22,7 @@ Having symmetric comments makes things look a little nicer, and are easier to mo
 /*/
 ```
 
+> See the 
 
 # One Line Comments 🗯
 
@@ -76,7 +77,7 @@ DEP / DEPRECIATED - Old code that for some reason is commented out in a section
 CRITICAL / URGENT / VITAL - Needs to be changed for sure before moving onto production or next phase
 REMOVE - Code that shouldn't make it into production  
 
-Here's more tags from [Wikipedia](https://en.wikipedia.org/wiki/Comment_(computer_programming\)) if you'd rather stick to the script  
+Here's more tags from [Wikipedia](https://en.wikipedia.org/wiki/Comment_(computer_programming%29) if you'd rather stick to the script  
 BUG – a known bug that should be corrected.  
 FIXME – should be corrected.  
 HACK – a workaround.  
