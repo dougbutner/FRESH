@@ -74,10 +74,10 @@ TODO - Something you need to circle back and finish coding
 CHECK - Code may not be needed, but functionality hasn't been confirmed  
 WARN - Flag that code may have issues or need improvement in the future  
 DEP / DEPRECIATED - Old code that for some reason is commented out in a section  
-CRITICAL / URGENT / VITAL - Needs to be changed for sure before moving onto production or next phase
+CRITICAL / URGENT / NOW - Needs to be changed for sure before moving onto production or next phase
 REMOVE - Code that shouldn't make it into production  
 
-Here's more tags from [Wikipedia](https://en.wikipedia.org/wiki/Comment_(computer_programming%29) if you'd rather stick to the script  
+Conventional
 BUG – a known bug that should be corrected.  
 FIXME – should be corrected.  
 HACK – a workaround.  
@@ -92,7 +92,7 @@ XXX – warn other programmers of problematic or misguiding code
 # Benefits 🍆🍑  
 FRESH syntax improves readability for the programmer by   
 
-- Horizontal lines [improve readability](I have no source apparently.md)  
+- Horizontal lines improve readability 
 - Scope termination so you don't get lost  
 - Searchable FLAGS help quality control  
 - Symmetric comments are pleasing to the eye  
