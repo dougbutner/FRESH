@@ -99,4 +99,4 @@ FRESH syntax improves readability for the programmer by
 
 *Welcome for improvements in issues / PRs.*  
 
-👨‍💻☕️ Author: [Douglas Butner AKA Sir Douglas Fresh](https://douglas.life)
+👨‍💻☕️ Author: [Douglas Butner AKA Gudasol 🜛](https://douglas.life/gudasol)
