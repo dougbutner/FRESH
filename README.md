@@ -13,6 +13,14 @@ After growing + nurturing this syntax over the past few years, It's ready for th
 
 `// --- Secondary Section Header or Explainer --- \\`
 
+## Alternative Section Headers 🏰
+
+It's super annoying, but many IDEs (even Github itself) will mis-read the \\ to be an escape character and a '\' The compiler won't miss, but if it's too much to see miscolored text, use this version. 
+
+`// === Main Section Header === //`
+
+
+`// --- Secondary Section Header or Explainer --- //`
 
 # Long Comment ✍️
 
