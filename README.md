@@ -8,10 +8,10 @@ After growing + nurturing this syntax over the past few years, It's ready for th
 
 # Section Headers 🏛
 
-`// === Main Section Header === ////`
+`// === Main Section Header === //`
 
 
-`// --- Secondary Section Header or Explainer --- ////`
+`// --- Secondary Section Header or Explainer --- //`
 
 ## Alternative Section Headers 🏰
 
